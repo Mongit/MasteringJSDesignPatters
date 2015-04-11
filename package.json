@@ -1,0 +1,22 @@
+{
+  "name": "MasteringDesignPatterns",
+  "version": "0.0.1",
+  "description": "ejercicios del libro Mastering JS Design Patters",
+  "main": "westeros.js",
+  "scripts": {
+    "test": "node --harmony $(which nodeunit) test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mongit/MasteringJSDesignPatters.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mongit/MasteringJSDesignPatters/issues"
+  },
+  "homepage": "https://github.com/Mongit/MasteringJSDesignPatters",
+  "dependencies": {
+    "npm": "^2.7.6"
+  }
+}
